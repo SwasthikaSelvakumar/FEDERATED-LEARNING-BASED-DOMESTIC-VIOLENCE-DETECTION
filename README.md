@@ -108,4 +108,4 @@ This project is intended for **research and educational purposes only**.
 It is **not a clinical or emergency diagnostic tool**.
 If you or someone you know is in immediate danger, contact **112 (India Emergency Services)** or relevant authorities immediately.
 
-
+<Violence> <Learning>
